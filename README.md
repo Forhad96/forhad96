@@ -1,3 +1,4 @@
+![Banner Image](https://github.com/Forhad96/forhad96/blob/main/assets/banner/github%20header.png)
 # Hi there, I'm Forhad Hossain! 👋
 # 💫 About Me:
 I'm a passionate web developer with less than a year of hands-on experience in the field. My journey in web development has been fueled by curiosity, and I've built a strong foundation in both front-end and basic back-end technologies.
