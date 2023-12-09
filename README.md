@@ -46,24 +46,27 @@ Happy coding! 🚀 -->
 
 
 
-📚 Learning Journey:
+## 📚 Learning Journey:
 
 🌱 Currently exploring advanced CSS techniques.
-📖 Studying design principles for a seamless user experience.
-💼 Seeking Opportunities:
-
-📈 Open to challenging front-end positions.
-💡 Excited to contribute creativity and technical expertise.
 <br/>
-👩‍💻 Collaboration:
+📖 Studying design principles for a seamless user experience.
+
+## 💼 Seeking Opportunities:
+
+<br/>
+📈 Open to challenging front-end positions.
+<br/>
+💡 Excited to contribute creativity and technical expertise.
+
+## 👩‍💻 Collaboration:
 
 🤝 Open to collaborations on innovative web projects.
 <br/>
 🔄 Always eager to learn from and share insights with fellow developers.
-<br/>
 
 
-🚀 Goal:
+## 🚀 Goal:
 <br/>
 🌐 Create delightful user experiences that make a positive impact.
 📈 Advance skills in front-end technologies.
@@ -80,18 +83,10 @@ Happy coding! 🚀 -->
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Forhad96&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Forhad96&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Forhad96&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=Forhad96&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
-### 😂Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Forhad96&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
